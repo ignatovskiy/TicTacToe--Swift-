@@ -27,13 +27,9 @@
 		663475E623FAB5E700F5A916 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		663475E923FAB5E700F5A916 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		663475EB23FAB5E700F5A916 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		6634760D23FABEA200F5A916 /* gameboard.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = gameboard.png; path = ../../../../Desktop/gameboard.png; sourceTree = "<group>"; };
-		6634760E23FABEA200F5A916 /* nougth.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = nougth.png; path = ../../../../Desktop/nougth.png; sourceTree = "<group>"; };
-		6634760F23FABEA200F5A916 /* cross.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cross.png; path = ../../../../Desktop/cross.png; sourceTree = "<group>"; };
 		6634A06E23FDBCFC00A1B801 /* nougth.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = nougth.png; path = TicTacToe/nougth.png; sourceTree = "<group>"; };
 		6634A06F23FDBCFC00A1B801 /* cross.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cross.png; path = TicTacToe/cross.png; sourceTree = "<group>"; };
 		6634A07023FDBCFC00A1B801 /* gameboard.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = gameboard.png; path = TicTacToe/gameboard.png; sourceTree = "<group>"; };
-		6634A07123FDBCFC00A1B801 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Info.plist; path = TicTacToe/Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +48,6 @@
 			children = (
 				6634A06F23FDBCFC00A1B801 /* cross.png */,
 				6634A07023FDBCFC00A1B801 /* gameboard.png */,
-				6634A07123FDBCFC00A1B801 /* Info.plist */,
 				6634A06E23FDBCFC00A1B801 /* nougth.png */,
 				663475DC23FAB5AB00F5A916 /* TicTacToe */,
 				663475DB23FAB5AB00F5A916 /* Products */,
@@ -70,9 +65,6 @@
 		663475DC23FAB5AB00F5A916 /* TicTacToe */ = {
 			isa = PBXGroup;
 			children = (
-				6634760F23FABEA200F5A916 /* cross.png */,
-				6634760D23FABEA200F5A916 /* gameboard.png */,
-				6634760E23FABEA200F5A916 /* nougth.png */,
 				663475DD23FAB5AC00F5A916 /* AppDelegate.swift */,
 				663475DF23FAB5AC00F5A916 /* SceneDelegate.swift */,
 				663475E123FAB5AC00F5A916 /* ViewController.swift */,
